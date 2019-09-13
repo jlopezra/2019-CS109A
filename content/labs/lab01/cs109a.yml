@@ -1,0 +1,19 @@
+name: cs109a
+dependencies:
+  - python=3.7
+  - anaconda
+  - seaborn
+  - pip
+<<<<<<< HEAD:content/labs/lab1/cs109a.yml
+  - numpy                           
+=======
+  - numpy
+>>>>>>> upstream/master:content/labs/lab01/cs109a.yml
+  - pandas=0.24.1
+  - matplotlib
+  - pip:
+    - beautifulsoup4
+    - tensorflow
+    - keras
+    - requests==2.21.0
+

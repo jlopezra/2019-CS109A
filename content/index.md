@@ -96,7 +96,7 @@ Only one of CS 109a, AC 209a, or Stat 121a can be taken for credit. Students who
 Cover the material presented in class. Both standard sections are identical.<br /></span></pre>
 
 <pre><span style="color: #993300;"><strong>ADVANCED SECTIONS</strong></span>
-<strong>Wednesday 9/18</strong> 4:30-5:45 pm 1 Story St. Room 306
+<strong>Wednesday 9/18</strong> 4:30-5:45 pm Sever Hall 113
 Cover a different topic each week and are required for 209a students.<br /></pre>
 
 <pre><span style="color: #993300;"><strong>Instructor Office Hours</strong></span><br /><span style="color: #000000;"><strong>Pavlos & Kevin</strong>: Monday 3-5 pm, IACS Lobby</span>
@@ -115,8 +115,18 @@ Cover a different topic each week and are required for 209a students.<br /></pre
 <br/>
 
 <div>
-<pre><strong><span style="color: #993300;">TF Office Hours </span></strong><strong><span style="color: #993300;"><br /></span></strong>A weekly schedule will be made available soon.</a></pre>
+<pre><strong><span style="color: #993300;">TF Office Hours (On-Campus)</span></strong><strong><span style="color: #993300;"></span></strong>
+<strong>Monday:</strong> 6-9 pm
+<strong>Tuesday:</strong> 4-8:30 pm
+<strong>Wednesday:</strong> 4-6:30 pm
+TF Hours are held in the IACS lobby.
+<strong>Note:</strong> Monday & Tuesday the first 1/2 hour of OH will be in the Maxwell-Dworkin main lobby before moving into the IACS lobby.</pre>
 
+<pre><strong><span style="color: #993300;">Online Office Hours</span></strong><strong><span style="color: #993300;"></span></strong>
+<strong>Tuesday:</strong> 3-6 pm
+<strong>Friday:</strong> 12-1:30 pm
+Online office hours are held via zoom:
+<a href="https://harvard-dce.zoom.us/j/7607382317">https://harvard-dce.zoom.us/j/7607382317</a></pre>
 <p>Please be aware, that we will not publicly release the homework assignments this year. If you want to follow the course online without registering, you can use the assignments from 2013 and 2014, available at the links below. Additionally, the material from 2015 is also available.</p>
 
 <h4>Previous Material</h4>
